@@ -7,3 +7,6 @@ The following questions are to be investigated:
 
 1) What team has the most wins and what attributes lead to that?
 2) How did the top winning team perform over the available season range?
+
+You can download the csv files from Kaggle:
+https://www.kaggle.com/hugomathien/soccer
